@@ -10,3 +10,19 @@ Este algoritmo es simple. Obtenemos la reversa del número a verificar (que sola
 En este proyecto tendrás que construir una aplicación web que le permita a un usuario validar el número de una tarjeta de crédito. Además, tendrás que implementar funcionalidad para ocultar todos los dígitos de una tarjeta menos los últimos cuatro.
 
 La temática es libre. Tú debes pensar en qué situaciones de la vida real se necesitaría validar una tarjeta de crédito y pensar en cómo debe ser esa experiencia de uso (qué pantallas, explicaciones, mensajes, colores, ¿marca?) etc.
+
+
+## Archive
+
+`README.md`
+Debe contener lo siguiente:
+
+- Un título con el nombre de tu proyecto.
+- Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
+- La imagen final de tu proyecto.
+Investigación UX:
+- Explicar quiénes son los usuarios y los objetivos en relación con el producto.
+- Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios.
+- Luego colocarás la foto de tu primer prototipo en papel.
+Agregar un resumen del feedback recibido indicando las mejoras a realizar.
+- Imagen del prototipo final.
